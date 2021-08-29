@@ -1,0 +1,10 @@
+.navbar{
+    background-color: black;
+    color: white;
+    width: 100%;
+    flex: 0.1;
+    font-family: inherit;
+    box-sizing: border-box;
+    padding-left: 60px;
+    color: #04b7db;
+}
